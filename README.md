@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 I’m currently working on No work. Just learning. 😎
+<br>
+🌱 I’m currently learning everthing.
+<br>
+👯 I’m looking to collaborate on github with other valuable collaborators.
+<br>
+🤔 I’m looking for help with somebody who will teach me everything that I want.
+<br>
+💬 Ask me about nothing😂. I am newbie. But I want to contribute.
+
 <!--
 **morganaschneider/morganaschneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
