@@ -1,9 +1,4 @@
-<h1 align="center">
-  <br>Hi, there! Morgana aqui! ️
-  
-  <img src="https://c.tenor.com/P5DB2iGAecsAAAAj/peach-cat.gif" width="height: 39; position: center;">
-   
-<style>
+ <style>
 ol {
   background: #ff9999;
   padding: 20px;
@@ -26,6 +21,12 @@ ul li {
   color: darkblue;
   margin: 5px;
 }
+
+<h1 align="center">
+  <br>Hi, there! Morgana aqui! ️
+  
+  <img src="https://c.tenor.com/P5DB2iGAecsAAAAj/peach-cat.gif" width="height: 39; position: center;">
+   
 
 
 </h1>
