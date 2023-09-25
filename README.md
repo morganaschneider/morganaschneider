@@ -8,10 +8,12 @@
 
 </h1>
 <div align="center">
- 
-<ul>Eat</ul>
-<ul>Sleep</ul>
-<ul>Code</ul>
+ <ul>
+  <li>Coffee</li>
+  <li>Sleep</li>
+  <li>Code</li>
+</ul>
+
   </div>
   <br>
   <br>
