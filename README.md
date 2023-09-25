@@ -11,8 +11,10 @@
 </h1>
 <div align="center">
  
-- Estudando 
-- RS
+<li>eat</li>
+<li>sleep</li>
+<li>code</li>
+
   </div>
   <br>
   <br>
