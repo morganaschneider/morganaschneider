@@ -21,7 +21,7 @@ ul li {
   color: darkblue;
   margin: 5px;
 }
-
+</style>
 <h1 align="center">
   <br>Hi, there! Morgana aqui! ️
   
