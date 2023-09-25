@@ -9,10 +9,9 @@
 </h1>
 <div align="center">
  
-<li>eat</li>
-<li>sleep</li>
-<li>code</li>
-
+<ul>Eat</ul>
+<ul>Sleep</ul>
+<ul>Code</ul>
   </div>
   <br>
   <br>
