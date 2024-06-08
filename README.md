@@ -1,4 +1,4 @@
-
+<img src="https://i.gifer.com/78C.mp4">
 <h1 align="center">
   <br>Hi, there! Morgana aqui! ️
 
@@ -20,6 +20,6 @@
 <br>
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
   
 </div>
