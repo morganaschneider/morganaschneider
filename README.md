@@ -10,4 +10,4 @@
 
 ## Contato
 
-![Gmail] (morganaschneeider@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-FFF?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:morganaschneeider@gmail.com)
