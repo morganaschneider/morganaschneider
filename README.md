@@ -2,7 +2,7 @@
 
 ### 🏄‍♂️ Hobbies:
 Ler ficção fantástica, jogar video-games variados no PC, programar e automatizar, caminhar ao entardecer.
-Treinar boxe e ler mangás e assistir animes e series.
+<br>Treinar boxe e ler mangás e assistir animes e series.
 
 
 Aprendendo continuamente:
