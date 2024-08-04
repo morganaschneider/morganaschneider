@@ -1,13 +1,15 @@
 # Morgana Schneider
 
-## Conecte-se comigo
+### 🏄‍♂️ Hobbies:
+Ler ficção fantástica, jogar video-games variados no PC, programar e automatizar, caminhar ao entardecer.
+Treinar boxe e ler mangás e assistir animes e series.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/morgana-schneider-3090a6200//)
 
-## SKILLS
+Aprendendo continuamente:
 
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
-## Contato
-
-[![E-mail](https://img.shields.io/badge/-Email-FFF?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:morganaschneeider@gmail.com)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
