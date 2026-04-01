@@ -1,6 +1,5 @@
 # Morgana Schneider
 
-Estudante de Análise e Desenvolvimento de Sistemas – 2/5.  
 Tenho interesse em desenvolvimento de software, automação e soluções digitais que unam inovação e eficiência.
 
 ---
