@@ -1,7 +1,6 @@
 # Morgana Schneider
 
-Tenho interesse em desenvolvimento de software, automação e soluções digitais que unam inovação e eficiência.
-
+Tenho interesse em desenvolvimento de software, automação de processos e soluções digitais voltadas para inovação e eficiência
 ---
 
 ## Formação Acadêmica
